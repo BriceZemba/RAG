@@ -1,1 +1,2 @@
-# RAG
+# RAG (Retrival-Augmented-Generation)
+
