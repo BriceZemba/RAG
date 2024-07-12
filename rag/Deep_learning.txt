@@ -1,0 +1,11 @@
+				Deep Learning
+
+Artificial Neural Network: Pattern Recognition
+
+Convolution Neural Network: Image Processing
+
+Recursive Neural Network: Speech Recognition
+
+Deep Neural Network: Acoustic Modeling
+
+Deep Belief Network: Cancer Detection
